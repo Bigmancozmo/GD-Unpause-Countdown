@@ -1,0 +1,14 @@
+{
+	"geode": "3.0.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "bigmancozmo.unpause_countdown",
+	"name": "Unpause Countdown",
+	"version": "v1.0.0",
+	"developer": "Bigmancozmo",
+	"description": "Adds a countdown before unpausing"
+}
