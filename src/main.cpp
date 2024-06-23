@@ -18,7 +18,7 @@ class $modify(CountdownCreator, PauseLayer) {
 	void onResume(CCObject* sender) {
 		PauseLayer::hideLayer(true);
 
-		
+		createNumber(3);
 
 		PauseLayer::onResume(sender);
 	}
